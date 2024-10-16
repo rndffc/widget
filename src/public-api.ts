@@ -1,0 +1,1 @@
+export * from '../src/app/mini-chat/mini-chat.component'; 
